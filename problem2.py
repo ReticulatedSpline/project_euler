@@ -1,4 +1,7 @@
-#By considering the terms in the Fibonacci sequence whose values do not exceed four million,
+"""
+By considering the terms in the Fibonacci sequence whose values do not exceed four million,
+find the sum of the even-valued terms.
+"""
 
 def naive_approach():
     prev, curr = 1, 2
